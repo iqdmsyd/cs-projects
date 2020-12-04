@@ -1,0 +1,54 @@
+.bg-prim {
+  background-color: #17252A;
+}
+
+.bg-sec {
+	background-color: #2B7A7B;
+}
+
+.bg-third {
+	background-color: #3AAFA9;
+}
+
+.txt-prim {
+	color: #17252A;
+}
+
+.txt-sec {
+	color: #2B7A7B;
+}
+
+.txt-third {
+	color: #3AAFA9;
+}
+
+.link-prim {
+  color: #FEFFFF;
+
+}
+
+.link-prim:hover {
+  color: #3AAFA9;
+}
+
+.link-sec {
+  color: #FEFFFF;
+}
+
+.link-sec:hover {
+  color: #2B7A7B;
+}
+
+.item {
+	color: #3AAFA9;
+}
+
+.item-actived {
+	color: #3AAFA9;
+	background-color: #17252A;
+}
+
+.item:hover {
+	color: #3AAFA9;
+	background-color: #17252A;
+}
