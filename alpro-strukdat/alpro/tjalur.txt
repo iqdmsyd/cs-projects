@@ -1,0 +1,4 @@
+1 kotaA kotaB
+2 kotaC kotaD
+2 kotaD kotaE
+# ## ##

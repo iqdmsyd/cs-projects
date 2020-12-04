@@ -1,0 +1,6 @@
+0 0 kotaA
+10 0 kotaC
+0 10 kotaB
+10 15 kotaD
+30 15 kotaE
+# # ##
