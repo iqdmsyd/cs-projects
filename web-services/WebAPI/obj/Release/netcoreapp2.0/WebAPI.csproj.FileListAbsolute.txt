@@ -1,0 +1,55 @@
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.deps.json
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.json
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.dll
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.pdb
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.dll
+C:\Users\Iqdam Musayyad R\source\repos\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.pdb
+D:\TUBES\Samsung Store\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.deps.json
+D:\TUBES\Samsung Store\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.json
+D:\TUBES\Samsung Store\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+D:\TUBES\Samsung Store\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.dll
+D:\TUBES\Samsung Store\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.pdb
+D:\TUBES\Samsung Store\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+D:\TUBES\Samsung Store\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\TUBES\Samsung Store\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+D:\TUBES\Samsung Store\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+D:\TUBES\Samsung Store\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.dll
+D:\TUBES\Samsung Store\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.pdb
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.deps.json
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.json
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.dll
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.pdb
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.dll
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.pdb
+D:\TUBES\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+D:\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+D:\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+D:\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.dll
+D:\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.pdb
+D:\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.deps.json
+D:\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.json
+D:\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+D:\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.dll
+D:\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.pdb
+D:\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.dll
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\obj\Release\netcoreapp2.0\WebAPI.pdb
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.deps.json
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.json
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.dll
+D:\TUBES\Kelompok 1 - Web Service\Samsung Store - Copy\WebAPI\WebAPI\bin\Release\netcoreapp2.0\WebAPI.pdb
