@@ -26,49 +26,6 @@ class Analytics extends CI_Controller
         if ($this->session->has_userdata('daily_sales_by_dimension'))
         $metadata['daily_sales_by_dimension'] = $this->session->userdata('daily_sales_by_dimension');
 
-        // if(!$this->session->has_userdata('daily_sales_by_partner')) {
-        //     $this->session->set_userdata('daily_sales_by_partner', array(
-        //         'record' => $this->get_daily_sales_by("STSN_JUAL", 1),
-        //         'month' => $this->get_month(1)
-        //     ));
-        // }
-        // $metadata['daily_sales_by_partner'] = $this->session->userdata('daily_sales_by_partner');
-        //
-        // if(!$this->session->has_userdata('daily_sales_by_route')) {
-        //     $this->session->set_userdata('daily_sales_by_route', array(
-        //         'record' => $this->get_daily_sales_by("RUTE", 1),
-        //         'month' => $this->get_month(1)
-        //     ));
-        // }
-        // $metadata['daily_sales_by_route'] = $this->session->userdata('daily_sales_by_route');
-        //
-        // if(!$this->session->has_userdata('daily_sales_by_psgtype')) {
-        //     $this->session->set_userdata('daily_sales_by_psgtype', array(
-        //         'record' => $this->get_daily_sales_by("PNP", 1),
-        //         'month' => $this->get_month(1)
-        //     ));
-        // }
-        // $metadata['daily_sales_by_psgtype'] = $this->session->userdata('daily_sales_by_psgtype');
-        //
-        // if(!$this->session->has_userdata('daily_sales_by_subclass')) {
-        //     $this->session->set_userdata('daily_sales_by_subclass', array(
-        //         'record' => $this->get_daily_sales_by("KERETA", 1),
-        //         'month' => $this->get_month(1)
-        //     ));
-        // }
-        // $metadata['daily_sales_by_subclass'] = $this->session->userdata('daily_sales_by_subclass');
-
-        // if (!$this->session->has_userdata('header_data')) {
-        //     $this->session->set_userdata('header_data', array(
-        //         'all_sales' => $this->M_Manifest->getAllSales(1)[0]->SALES,
-        //         'top_sales_by_partner' => $metadata['daily_sales_by_partner']['record'][0],
-        //         'top_sales_by_route' => $metadata['daily_sales_by_route']['record'][0],
-        //         'top_sales_by_subclass' => $metadata['daily_sales_by_subclass']['record'][0]
-        //     ));
-        // }
-        // $metadata['header_data'] = $this->session->userdata('header_data');
-        // print_r($metadata);
-
         $this->load->view('v_header', $metadata);
         $this->load->view('v_analytics_new', $metadata);
         $this->load->view('v_footer', $metadata);
